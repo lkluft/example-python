@@ -7,9 +7,20 @@ documentation for your software.
 ## Install the package
 
 
-Install the package and its dependencies
+Create a new environment will all dependencies and make it the active environment
 ```sh
-python3 -m pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate mypackage
+```
+
+Inspect information about the environment and list all installed packages
+```sh
+conda info
+conda list
+```
+
+Install our own package in the environment
+```sh
 python3 -m pip install .
 ```
 
