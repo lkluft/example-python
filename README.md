@@ -27,10 +27,7 @@ cd docs/
 make html
 ```
 
-The will generate HTML files in
-```
-docs/build/html
-```
+The generated HTML files are stored in ` docs/build/html`.
 
 ---
 
