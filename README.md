@@ -9,8 +9,8 @@ documentation for your software.
 
 Install the package and its dependencies
 ```sh
-python -m pip install -r requirements.txt
-python -m pip install .
+python3 -m pip install -r requirements.txt
+python3 -m pip install .
 ```
 
 ## Run tests
