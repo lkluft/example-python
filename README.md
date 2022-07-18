@@ -31,3 +31,9 @@ The will generate HTML files in
 ```
 docs/build/html
 ```
+
+---
+
+Further information
+* [Sphinx - Python documentation generator](https://sphinx-doc.org)
+* [pytest - A full-featured Python testing framewor](https://docs.pytest.org)
