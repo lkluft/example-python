@@ -1,7 +1,8 @@
 # Example repository (Python)
 
-This git repository is a minimal example to show how to structure python code
-and run automated tests and documentation using Github CI.
+This git repository is a minimal example to show how to structure a Python
+package, and how to use GitHub Actions to automatically run tests and build
+documentation for your software.
 
 ## Install the package
 
