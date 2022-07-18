@@ -15,3 +15,7 @@ jobs:
           python -m pip install .
       - name: Test with pytest
         run: pytest .
+
+      - name: Build docs
+        run: |
+          cd docs && make html
