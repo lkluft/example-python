@@ -35,5 +35,7 @@ docs/build/html
 ---
 
 Further information
+* [Setuptools - library to facilitate packaging Python projects](https://setuptools.pypa.io)
 * [Sphinx - Python documentation generator](https://sphinx-doc.org)
 * [pytest - A full-featured Python testing framewor](https://docs.pytest.org)
+* [GitHub Actions - automate your software workflows](https://github.com/features/actions)
