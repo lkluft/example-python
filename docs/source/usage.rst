@@ -1,11 +1,6 @@
-Usage
-=====
+usage
+======
 
-.._installation:
+nothing here
+-----------
 
-_installation
--------------
-
-hello
-
-...

@@ -10,7 +10,8 @@ Welcome to mypackage's documentation!
    :maxdepth: 2
 
    functions
-   plots
+   Result
+   Usage
 
 Check out the :doc:`usage` section for further information.
 
