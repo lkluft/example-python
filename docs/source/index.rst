@@ -10,7 +10,9 @@ Welcome to mypackage's documentation!
    :maxdepth: 2
 
    functions
+   plots
 
+Check out the :doc:`usage` section for further information.
 
 Indices and tables
 ==================

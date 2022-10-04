@@ -13,7 +13,8 @@
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../..'))
-
+sys.path.insert(0,"/Users/liuquan/opt/anaconda3/envs/testdoc/lib/python3.10/site-packages")
+sys.path.insert(0,"Users/liuquan/GitHub/example-python-cl/plots")
 
 # -- Project information -----------------------------------------------------
 
@@ -30,6 +31,7 @@ author = 'mypackage developers'
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
+    'myst_parser',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

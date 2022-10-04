@@ -1,0 +1,9 @@
+Result
+=======
+
+1. random Result
+-----------------
+
+.. |my figure| image:: /Users/liuquan/GitHub/example-python-cl/plots/exp_var.png
+  :width: 400
+  :alt: random figure
